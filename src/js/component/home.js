@@ -121,6 +121,9 @@ export function Home() {
 				{" "}
 				<strong> {x} items left</strong>
 			</div>
+			<div class="card-footer text-center">
+				Jose Navarrete @4GeeksAcademy
+			</div>
 		</div>
 	);
 }
